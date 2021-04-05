@@ -7,7 +7,7 @@
 - ⌚ I'm currently Learning Full stack web development.
 - 👯 I’m looking for a partner who can help me in project.
 - 💬 Ask me about Frontend Technologies.
-- 📫 How to reach me tahmid231@gmail.com
+- 📫 How to reach me: tahmid231@gmail.com
 - 🥅 2021 Goals: Contribute more in frontend development.
 - ⚡ Hobby: I love traveling.
 
