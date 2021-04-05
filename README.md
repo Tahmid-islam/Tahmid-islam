@@ -36,7 +36,7 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/> </a>
  
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics:
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
 <a href='https://github.com/Tahmid-islam'>
   <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid-islam&theme=merko&layout=compact&hide=python,powershell'>
