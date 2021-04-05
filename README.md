@@ -34,12 +34,10 @@
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/> </a>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/> </a></p>
 
 
-<h3 align="left">⚙️ GitHub Analytics:</h3>
-<p align="left">
-
+### ⚙️ &nbsp;GitHub Analytics
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
 <a href='https://github.com/Tahmid-islam'>
   <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid-islam&theme=vision-friendly-dark&layout=compact&hide=python,powershell'>
@@ -47,4 +45,4 @@
 <a href='https://github.com/Tahmid-islam'>
   <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=Tahmid-islam&theme=vision-friendly-dark&show_icons=true'>
 </a>
-</p>
+
