@@ -14,10 +14,10 @@
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/md-ahanaf-tahmid-islam-922a3b14b/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="md-ahanaf-tahmid-islam-922a3b14b/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ahanaf.tahmid.islam/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="tahmid.islam/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/____ahanaf____/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="____ahanaf____/" height="30" width="40" /></a>
- <a href="https://medium.com/@tahmid231" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-3.png" alt="gggg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-ahanaf-tahmid-islam-922a3b14b/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="md-ahanaf-tahmid-islam-922a3b14b/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ahanaf.tahmid.islam/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="tahmid.islam/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/____ahanaf____/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="____ahanaf____/" height="30" width="40" /></a>
+ <a href="https://medium.com/@tahmid231" target="_blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-3.png" alt="gggg" height="30" width="40" /></a>
 </p>
 
 ### 🛠️ Languages and Tools:
