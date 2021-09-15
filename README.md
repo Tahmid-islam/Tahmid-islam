@@ -4,11 +4,11 @@
 ### I am a Programmer || Font-End Web Developer || Computer Science Engineer !! 💻
 - 💻 I'm passionate about what I learn and apply them into real life.
 - 🔭 I’m currently working in web development project with react.
-- ⌚ I'm currently Learning Full stack web development.(MERN)
+- ⌚ I'm currently learning full stack web development. (MERN)
 - 👯 I’m looking for a partner who can help me in project.
-- 💬 Ask me about Frontend Technologies.
+- 💬 Ask me about front-end technologies.
 - 📫 How to reach me: tahmid231@gmail.com
-- 🥅 2021 Goals: Contribute more in frontend development.
+- 🥅 2021 Goals: Contribute more in frontend web development.
 - ⚡ Hobby: I love traveling.
 
 <h3 align="left">🤝 Connect with me:</h3>
