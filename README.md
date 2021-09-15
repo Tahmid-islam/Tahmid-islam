@@ -32,7 +32,7 @@
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" />
 <img align="left" alt="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
-<br/> <br/> <br />
+<br/> <br/>
 
 <h3 align="left">⚙️ GitHub Analytics:</h3>
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
