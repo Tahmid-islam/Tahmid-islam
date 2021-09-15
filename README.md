@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, there! I am Md. Ahanaf Tahmid Islam.<br> Nice to meet you! 😀 </h1>
 
 ### Welcome To my GitHub's World 😎
-### I am a Programmer || Web Developer || Computer Science Engineer !! 💻
+### I am a Programmer || Font-End Web Developer || Computer Science Engineer !! 💻
 - 💻 I'm passionate about what I learn and apply them into real life.
-- 🔭 I’m currently working on CSE499 in web development project.
-- ⌚ I'm currently Learning Full stack web development.
+- 🔭 I’m currently working in web development project with react.
+- ⌚ I'm currently Learning Full stack web development.(MERN)
 - 👯 I’m looking for a partner who can help me in project.
 - 💬 Ask me about Frontend Technologies.
 - 📫 How to reach me: tahmid231@gmail.com
